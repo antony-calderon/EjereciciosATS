@@ -15,6 +15,8 @@ public class MexclarArray3En3 {
         b=new int[6];
         c=new int[12];
         
+        System.out.println("hola");
+        
         Scanner entrada=new Scanner(System.in);
         System.out.println("Llenando el arreglo 1");
         for(int i=0;i<6;i++){
