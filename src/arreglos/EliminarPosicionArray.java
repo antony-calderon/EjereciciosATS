@@ -12,7 +12,7 @@ public class EliminarPosicionArray {
         int tabla[]=new int [10];
         int posicion;
         
-        //jejeje
+        
         
         Scanner entrada=new Scanner(System.in);
         
@@ -22,20 +22,24 @@ public class EliminarPosicionArray {
             tabla[i]=entrada.nextInt();
         }
         
-        //pedir la posicion entre 0 y 9
+        //pedir la posicion entre 1 y 10
         
         do{
-            System.out.print("Por favor digita la posicion: \n");
+            System.out.print("Por favor digita la posicion a eliminar: \n");
             posicion=entrada.nextInt();
             
-            if(posicion>9 || posicion<0){
-                System.out.println("Digita una posicion entre 0 y 9\n");
+            if((posicion-1>=10) || (posicion-1<0)){
+                System.out.println("Digita una posicion entre 1 y 10\n");
             }
-        }while(posicion>9 || posicion<0);
+        }while(posicion-1>=10 || posicion-1<0);
         
-        //print the array
-        for(int elemento:tabla){
-            System.out.print(elemento+"-");
+         for (int x=posicion-1;x<tabla.length-1;x++){
+            tabla[x]=tabla[x+1];           
         }
+        tabla[tabla.length-1]=0;
+        
+        //Arreglo con los nros desplazados a partir del eliminado
+        for (int nro:tabla)
+            System.out.print(nro+"-");
     }
 }
