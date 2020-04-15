@@ -4,18 +4,16 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/D:/PROGRAMACION%20AUTODIDACTA/PROGRAMAS%20JAVA%20ATS/EjereciciosATS/src/matrices/Matriz.java</file>
-            <file>file:/D:/PROGRAMACION%20AUTODIDACTA/PROGRAMAS%20JAVA%20ATS/EjereciciosATS/src/poo/Persona.java</file>
-            <file>file:/D:/PROGRAMACION%20AUTODIDACTA/PROGRAMAS%20JAVA%20ATS/EjereciciosATS/src/matrices/CrearMatrizYTrasponerla.java</file>
-            <file>file:/D:/PROGRAMACION%20AUTODIDACTA/PROGRAMAS%20JAVA%20ATS/EjereciciosATS/src/poo/Principal.java</file>
-            <file>file:/D:/PROGRAMACION%20AUTODIDACTA/PROGRAMAS%20JAVA%20ATS/EjereciciosATS/src/arreglos/SepararParesImparesArray.java</file>
-            <file>file:/D:/PROGRAMACION%20AUTODIDACTA/PROGRAMAS%20JAVA%20ATS/EjereciciosATS/src/arreglos/CombinarArrayCrecienteBurbuja.java</file>
-            <file>file:/D:/PROGRAMACION%20AUTODIDACTA/PROGRAMAS%20JAVA%20ATS/EjereciciosATS/src/ordenamientos/Burbuja.java</file>
             <file>file:/D:/PROGRAMACION%20AUTODIDACTA/PROGRAMAS%20JAVA%20ATS/EjereciciosATS/src/matrices/MatrizSimetricaONo.java</file>
             <file>file:/D:/PROGRAMACION%20AUTODIDACTA/PROGRAMAS%20JAVA%20ATS/EjereciciosATS/src/arreglos/InsertarElementoArrayOrdenado.java</file>
             <file>file:/D:/PROGRAMACION%20AUTODIDACTA/PROGRAMAS%20JAVA%20ATS/EjereciciosATS/src/matrices/SumaFilaYColumnaMatriz.java</file>
+            <file>file:/D:/PROGRAMACION%20AUTODIDACTA/PROGRAMAS%20JAVA%20ATS/EjereciciosATS/src/matrices/CrearMatrizYTrasponerla.java</file>
+            <file>file:/D:/PROGRAMACION%20AUTODIDACTA/PROGRAMAS%20JAVA%20ATS/EjereciciosATS/src/arreglos/SepararParesImparesArray.java</file>
             <file>file:/D:/PROGRAMACION%20AUTODIDACTA/PROGRAMAS%20JAVA%20ATS/EjereciciosATS/src/arreglos/EliminarPosicionArray.java</file>
+            <file>file:/D:/PROGRAMACION%20AUTODIDACTA/PROGRAMAS%20JAVA%20ATS/EjereciciosATS/src/arreglos/CombinarArrayCrecienteBurbuja.java</file>
             <file>file:/D:/PROGRAMACION%20AUTODIDACTA/PROGRAMAS%20JAVA%20ATS/EjereciciosATS/src/matrices/MarcoDeUnosMatriz.java</file>
             <file>file:/D:/PROGRAMACION%20AUTODIDACTA/PROGRAMAS%20JAVA%20ATS/EjereciciosATS/src/arreglos/MezclarArreglosEnUno.java</file>
+            <file>file:/D:/PROGRAMACION%20AUTODIDACTA/PROGRAMAS%20JAVA%20ATS/EjereciciosATS/src/ordenamientos/Burbuja.java</file>
         </group>
     </open-files>
 </project-private>
